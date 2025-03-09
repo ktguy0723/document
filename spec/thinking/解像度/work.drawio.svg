@@ -1,0 +1,1053 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="537px" height="1351px" viewBox="-0.5 -0.5 537 1351" content="&lt;mxfile&gt;&lt;diagram id=&quot;9BqYEs9FAMmd7booA-Ra&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;ytxQCSlvynUqrayHt-dC&quot; name=&quot;Page-2&quot;&gt;jZPBboMwDIafhuMkIGLtjgPa7bCph1bdccqIC9FCzEJogadfaEIpqyrtgpzP9m/HDh5JyvZF0ap4RwbCC33WeiT1wnDhE/MdQGdBtPQtyBVnFgUT2PIeHBzDGs6gngVqRKF5NYcZSgmZnjGqFJ7mYQcU86oVzeEGbDMqbukHZ7qwdBkuJv4KPC/GysHjk/WUdAx2N6kLyvB0hcjKI4lC1NYq2wTEMLtxLjZvfcd7aUyB1P9J2G389Jh+LtX+Z7Pom34dv+0fnMqRisZdeAetdg3rbpyCHiCJC10KAwJjUsFzaezMVAdlwBGU5mZuz85RcsaG9FhBzXv6dZbyzblCLvV5K1HsRemg1Wis7eYH6Vor/IYEBRrdVKIcVA5ciD/ItW7qQnt3JsFl0uaFApagVWdCxucZ2YxufjxNm47c9oqrJRPHqHtb+UV3Gr8x3AbG47Tps+/qdyGrXw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="16" y="960" width="520" height="270" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <ellipse cx="75" cy="568" rx="60" ry="40" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 568px; margin-left: 16px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <br/>
+                                <br/>
+                                解決策
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="75" y="572" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    解決策...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="76" cy="525" rx="60" ry="40" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 525px; margin-left: 17px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                課題
+                                <br/>
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="76" y="529" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    課題...
+                </text>
+            </switch>
+        </g>
+        <rect x="46" y="533" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 548px; margin-left: 47px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <font color="#ff0000">
+                                        価値
+                                    </font>
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="76" y="552" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    価値
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="0" width="440" height="35.68" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 438px; height: 1px; padding-top: 18px; margin-left: 2px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 12px;">
+                                    解像度・・・物事への理解度や、物事を表現するときの精細さ、思考の明晰さ
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2" y="22" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="15px">
+                    解像度・・・物事への理解度や、物事を表現するときの精細さ、思考の明晰さ
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="128.68" width="60" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <rect x="90" y="102.68" width="60" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <rect x="90" y="148.68" width="60" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <rect x="170" y="78.68" width="60" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <rect x="170" y="118.68" width="60" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <rect x="170" y="168.68" width="60" height="30" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <path d="M 90 117.68 L 70 143.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 93.68 L 150 117.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 133.68 L 150 117.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 170 183.68 L 150 163.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 90 163.68 L 70 143.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 16.37 64.68 L 223.63 64.68" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 11.12 64.68 L 18.12 61.18 L 16.37 64.68 L 18.12 68.18 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 228.88 64.68 L 221.88 68.18 L 223.63 64.68 L 221.88 61.18 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 51px; margin-left: 91px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                深さ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="54" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    深さ
+                </text>
+            </switch>
+        </g>
+        <path d="M 250 81.05 L 250 198.31" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 250 75.8 L 253.5 82.8 L 250 81.05 L 246.5 82.8 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 250 203.56 L 246.5 196.56 L 250 198.31 L 253.5 196.56 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 134px; margin-left: 251px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                広さ
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="280" y="137" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    広さ
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 110px; margin-left: 11px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                構造
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="40" y="113" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    構造
+                </text>
+            </switch>
+        </g>
+        <path d="M 20.5 249.68 L 20.5 239.68 L 210.5 239.68 L 210.5 229.18 L 229.5 244.68 L 210.5 260.18 L 210.5 249.68 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 260px; margin-left: 91px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; overflow-wrap: normal;">
+                                時間
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="263" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    時間
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 491px; height: 1px; padding-top: 400px; margin-left: 17px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <b style="">
+                                    <font style="font-size: 14px;">
+                                        解像度が高い状態とは
+                                    </font>
+                                </b>
+                                <br/>
+                                <span style="font-size: 12px;">
+                                    相手の持つ
+                                </span>
+                                <b style="font-size: 12px;">
+                                    課題
+                                </b>
+                                <span style="font-size: 12px;">
+                                    を、
+                                </span>
+                                <b style="font-size: 12px;">
+                                    時間
+                                </b>
+                                <span style="font-size: 12px;">
+                                    軸を考慮に入れながら、
+                                </span>
+                                <b style="font-size: 12px;">
+                                    深く
+                                </b>
+                                <span style="font-size: 12px;">
+                                    、
+                                </span>
+                                <b style="font-size: 12px;">
+                                    広く
+                                </b>
+                                <span style="font-size: 12px;">
+                                    、
+                                </span>
+                                <b style="font-size: 12px;">
+                                    構造
+                                </b>
+                                <span style="font-size: 12px;">
+                                    的に捉えて、その
+                                </span>
+                                <b style="font-size: 12px;">
+                                    課題
+                                </b>
+                                <span style="font-size: 12px;">
+                                    に最も効果的な
+                                </span>
+                                <b style="font-size: 12px;">
+                                    解決策
+                                </b>
+                                <span style="font-size: 12px;">
+                                    を提供していること
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="17" y="405" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="15px">
+                    解像度が高い状態とは
+相手の持つ課題を、時間軸を考慮に入れながら、深く、広く、構造的に捉えて、その課題に最も効果的な解決策を提供していること
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 470px; margin-left: 222px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <b>
+                                    解像度を上げるには？（How）
+                                </b>
+                                <br/>
+                                情報×思考×行動
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="222" y="474" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    解像度を上げるには？（How）...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 525px; margin-left: 222px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                行動を上げるのが一番重要
+                                <br/>
+                                →どう上げるか？？
+                                <br/>
+                                →「
+                                <b>
+                                    型
+                                </b>
+                                」
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="222" y="529" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    行動を上げるのが一番重要→どう上げるか？？→「型」...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 465px; margin-left: 12px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <b>
+                                    何の解像度を上げるか？（What）
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="469" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    何の解像度を上げるか？（What）
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1010px; margin-left: 141px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <b>
+                                        「深さ✖️解決策」
+                                    </b>
+                                    <br style="border-color: var(--border-color);"/>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        プレリリースを書いてみる
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        行動可能な単位までHowを問う
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        専門性を磨いて、新たな解決策に気づく
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        手で考える
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        体で考える
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="141" y="1014" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「深さ✖️解決策」- プレリリースを書いてみる...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1005px; margin-left: 376px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            「広さ✖️解決策」
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        使える道具を増やす
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        外部資源を獲得する前提で広げる
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        探索に資源を割り当てる
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        解決策の真の意味を考える
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="376" y="1009" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「広さ✖️解決策」- 使える道具を増やす...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1145px; margin-left: 171px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            「構造✖️解決策」
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        解決する範囲を決める
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        構造のパターンに当てはめる
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        新しい組み合わせを生み出す
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        要素感の相性を考える
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        捨てることで独自性を出す
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        制約を意識する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        他システムとの連携を考える
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        意図していなかったシステムの振る舞いに対処する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        ストーリーを描く
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        雑な構造から描き始める
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="171" y="1149" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「構造✖️解決策」- 解決する範囲を決める...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1125px; margin-left: 401px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            「時間✖️解決策」
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        最適なステップを見出す
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        シミュレーションする
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        好循環を作り出す
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        長期の視点で考えて、時間を味方につける
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        アジリティと学ぶ力を高める
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="border-color: var(--border-color);">
+                                        <br/>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="401" y="1129" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「時間✖️解決策」- 最適なステップを見出す...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1300px; margin-left: 166px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            検証の方法
+                                        </b>
+                                    </span>
+                                    <br style="border-color: var(--border-color);"/>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        MVPを作り、スケールしないことをする
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        身銭を切ってもらって、課題の大きさを検証する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        システムに働きかけて試す
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        粘り強く改善し続ける
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        行動することで機械を産む
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="166" y="1304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    検証の方法- MVPを作り、スケールしないことをする...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 730px; margin-left: 156px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            「深さ✖️課題」の型
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        言語化して現状を把握する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        サーベイする
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        インタビューする
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        現場に没入する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        個に迫る
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        Why so?を繰り返して、事実から洞察を導く
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        習慣的に言語化する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        言葉や概念、知識を増やす
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        コミュニティで深掘りを加速する
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="156" y="734" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「深さ✖️課題」の型- 言語化して現状を把握する...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 705px; margin-left: 386px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            「広さ✖️課題」の型
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        前提を疑う
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        視座を変える
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        体験する
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        人と話す
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        改めて深める場所を決める
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="386" y="709" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「広さ✖️課題」の型- 前提を疑う...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 865px; margin-left: 101px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);">
+                                        <b>
+                                            「構造✖️課題」の型
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        分ける
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        比べる
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        関連付ける
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        省く
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        質問をする
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        構造のパターンを知る
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="101" y="869" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「構造✖️課題」の型- 分ける...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 860px; margin-left: 381px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="background-color: initial;">
+                                        <b>
+                                            「時間✖️課題」の型
+                                        </b>
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        変化を見る
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        プロセスやステップを見る
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        流れを見る
+                                    </span>
+                                </div>
+                                <div style="border-color: var(--border-color); color: rgb(59, 59, 59); font-family: Menlo, Monaco, &quot;Courier New&quot;, monospace; text-align: left;">
+                                    <span style="border-color: var(--border-color);"></span>
+                                    <span style="border-color: var(--border-color); color: rgb(4, 81, 165);">
+                                        -
+                                    </span>
+                                    <span style="border-color: var(--border-color);">
+                                        歴史を振り返る
+                                    </span>
+                                </div>
+                                <div>
+                                    <span style="border-color: var(--border-color);">
+                                        <br/>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="381" y="864" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    「時間✖️課題」の型- 変化を見る...
+                </text>
+            </switch>
+        </g>
+        <rect x="16" y="650" width="460" height="270" fill="none" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 635px; margin-left: 56px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <b>
+                                    <font style="font-size: 14px;">
+                                        課題の型
+                                    </font>
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="56" y="639" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    課題の型
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 945px; margin-left: 60px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <b>
+                                    <font style="font-size: 14px;">
+                                        解決策の型
+                                    </font>
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="60" y="949" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    解決策の型
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 315px; margin-left: 12px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                深さ：原因(直接的な要素)や要因(間接的な要素群)、方法(How)を具体的に掘り下げること
+                                <br/>
+                                広さ：考慮する原因や要因、アプローチの多様性を確保する
+                                <br/>
+                                構造：「深さ」や「広さ」で見えてきた要素を、意味のある形に分け
+                                <br/>
+                                要素感の関係性やそれぞれの相対的な重要性を把握する
+                                <br/>
+                                時間：経時変化や因果関係、物事のプロセスや流れを捉える
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="12" y="319" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    深さ：原因(直接的な要素)や要因(間接的な要素群)、方法(How)を具体的に掘り下げること...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
